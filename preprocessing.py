@@ -80,3 +80,16 @@ def generarAtributosPositivasNegativas(instancias):
 def generateDatasetPositivasNegativas():
     articulos = getNewsContentPositivasNegativas()
     atributos = generarAtributosPositivasNegativas(articulos)
+    for clase in articulos:
+        for articulo in articulos[clase]:
+            instancia = ''
+            for key in atributos.iterkeys():
+                instancia += str(articulo.count(key)) + ','
+            instancia+=clase+"\n"
+            f = open('datasets/dataset.csv', 'a+')
+            f.write(instancia)
+
+
+
+
+generateDatasetPositivasNegativas()
