@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="" />
+    <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T09:30:59Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T09:37:15Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T09:39:07Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T09:48:37Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T09:56:02Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T09:59:51Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:00:44Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:03:43Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:21:32Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:25:04Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:27:15Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:31:08Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:37:13Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:44:31Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:44:34Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:45:34Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:46:33Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T10:56:56Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:04:22Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:07:37Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:19:39Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:25:22Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:26:13Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:27:22Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-26T11:40:46Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/record.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="2235">
               <caret line="149" column="20" selection-start-line="149" selection-start-column="20" selection-end-line="149" selection-end-column="20" />
             </state>
           </provider>
@@ -42,40 +71,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+            <state relative-caret-position="584">
+              <caret line="93" column="43" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="4590">
               <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:21:32Z.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:03:43Z.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -97,13 +108,18 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="127" />
+    <option name="y" value="60" />
+    <option name="width" value="1400" />
+    <option name="height" value="903" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,12 +130,13 @@
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarcaScrapping" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -189,7 +206,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3bd3e807-7b01-43b8-8fd0-24897e3a224c" name="Default Changelist" comment="" />
+      <changelist id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="" />
       <created>1553523411163</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -263,7 +280,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950678" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,6 +350,13 @@
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T20:37:15Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/dataset.csv" />
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T20:34:58Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -342,11 +366,12 @@
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T21:19:50Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:21:32Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:03:43Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/record.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" column="20" selection-start-line="149" selection-start-column="20" selection-end-line="149" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -355,37 +380,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/record.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="149" column="20" selection-start-line="149" selection-start-column="20" selection-end-line="149" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="4590">
           <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataset.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:21:32Z.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:03:43Z.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+        <state relative-caret-position="584">
+          <caret line="93" column="43" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
   </component>
