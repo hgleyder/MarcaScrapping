@@ -68,12 +68,15 @@ def generarAtributosPositivasNegativas(instancias):
     clases = ['positivo', 'negativo']
     wordsList = {}
     for clase in clases:
-        for words in instancias[clase]:
-            for word in words:
-                if not word in wordsList:
-                    wordsList[word] = 1
-                else:
-                    wordsList[word] += 1
+        for instance in instancias[clase]:
+            wordsAdded = []
+            for word in instance:
+                if not word in wordsAdded:
+                    wordsAdded.append(word)
+                    if not word in wordsList:
+                        wordsList[word] = 1
+                    else:
+                        wordsList[word] += 1
     return wordsList
 
 
@@ -88,6 +91,7 @@ def generateDatasetPositivasNegativas():
             instancia+=clase+"\n"
             f = open('datasets/dataset.csv', 'a+')
             f.write(instancia)
+    print "Dataset creado de forma exitosa!"
 
 
 
