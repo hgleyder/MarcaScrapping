@@ -20,7 +20,7 @@ for line in f.readlines():
 
 # filtrar articulos en espanol unicamente
 for article in datastore['articles']:
-    if not 'marca.com/en/' in article['url'] and not article['publishedAt'] in record and not 'en directo' in article['title'].lower():
+    if not 'marca.com/en/' in article['url'] and not article['title'] in record and not 'en directo' in article['title'].lower():
 
         # guardar en el record el articulo
         f = open(path + "record.txt", "a+")
