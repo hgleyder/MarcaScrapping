@@ -24,7 +24,7 @@ for article in datastore['articles']:
 
         # guardar en el record el articulo
         f = open(path + "record.txt", "a+")
-        f.write(article['publishedAt']+'\n')
+        f.write(article['title']+'\n')
 
         raw_html = requests.get(article['url']).content
         html = BeautifulSoup(raw_html, 'html.parser')
