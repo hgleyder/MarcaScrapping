@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="" />
+    <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/datasets/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +48,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-1009" />
+          </provider>
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="-724" />
           </provider>
         </entry>
       </file>
@@ -144,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.preprocessing">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MarcaScrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.preprocessing" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +269,6 @@
   <component name="TodoView" selected-index="4" />
   <component name="ToolWindowManager">
     <frame x="127" y="60" width="1400" height="903" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,11 +376,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-1009" />
+      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-724" />
       </provider>
     </entry>
   </component>
