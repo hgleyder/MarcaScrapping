@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +28,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/record.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="11400">
               <caret line="760" column="50" selection-start-line="760" selection-start-column="50" selection-end-line="760" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -47,10 +43,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-724" />
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="1230">
               <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="83" selection-end-column="42" />
             </state>
           </provider>
@@ -98,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -262,7 +268,7 @@
     <frame x="127" y="60" width="1400" height="903" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,25 +309,15 @@
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T21:57:22Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T22:39:44Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T19:36:35Z.txt" />
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:27:15Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:25:04Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T12:18:40Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:27:15Z.txt" />
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:25:04Z.txt" />
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T12:18:40Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T19:51:09Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T20:35:59Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T21:14:24Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T23:01:19Z.txt" />
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T12:20:41Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T12:18:32Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T12:20:41Z.txt" />
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T12:18:32Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T21:05:02Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -338,6 +334,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dataset.csv" />
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:21:32Z.txt" />
+    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:03:43Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T20:34:58Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -347,38 +345,24 @@
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T21:19:50Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+    <entry file="file://$PROJECT_DIR$/record.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4590">
-          <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
+        <state relative-caret-position="11400">
+          <caret line="760" column="50" selection-start-line="760" selection-start-column="50" selection-end-line="760" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:21:32Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-26T10:03:43Z.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="1230">
           <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="83" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-991" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record.txt">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="760" column="50" selection-start-line="760" selection-start-column="50" selection-end-line="760" selection-end-column="50" />
+        <state relative-caret-position="4590">
+          <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -387,6 +371,14 @@
         <state relative-caret-position="255">
           <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-724" />
       </provider>
     </entry>
   </component>
