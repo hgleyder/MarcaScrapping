@@ -9,6 +9,8 @@ import re
 from nltk.stem import SnowballStemmer
 stemmer = SnowballStemmer('spanish')
 
+MIN_COUNT_ATTR = 20;
+
 def getFilesFromPath(path):
     return [f for f in listdir(path) if isfile(join(path, f))]
 
@@ -82,13 +84,22 @@ def generarAtributosPositivasNegativas(instancias):
 
 def generateDatasetPositivasNegativas():
     f = open('datasets/dataset.csv', 'w+')
+    f = open('datasets/classes.txt', 'w+')
+    f = open('datasets/instances.txt', 'w+')
     articulos = getNewsContentPositivasNegativas()
     atributos = generarAtributosPositivasNegativas(articulos)
     for clase in articulos:
         for articulo in articulos[clase]:
             instancia = ''
-            for key in atributos.iterkeys():
+            filteredAttrs = (x for x in atributos.iterkeys() if atributos[x] >= MIN_COUNT_ATTR)
+            for key in filteredAttrs:
                 instancia += str(articulo.count(key)) + ','
+
+            f = open('datasets/instances.txt', 'a+')
+            f.write(instancia[:-1]+'\n')
+            f = open('datasets/classes.txt', 'a+')
+            f.write(clase+'\n')
+
             instancia+=clase+"\n"
             f = open('datasets/dataset.csv', 'a+')
             f.write(instancia)

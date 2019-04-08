@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T06:49:15Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T07:06:10Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T07:29:03Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T14:08:50Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T14:53:52Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T19:48:21Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T19:48:45Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:01:17Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:10:31Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:18:11Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:20:07Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:23:56Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:40:54Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:47:56Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:48:28Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T20:57:34Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T21:16:49Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T21:41:03Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T21:46:14Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T22:14:38Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T22:17:18Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T22:31:54Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T22:54:52Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-27T23:04:53Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T00:54:09Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T05:36:29Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:04:52Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:10:09Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:10:51Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:25:14Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:31:09Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:34:21Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:34:44Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:45:32Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:52:20Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T06:53:01Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:14:16Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:22:45Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:24:17Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:25:38Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:27:53Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:31:46Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:35:33Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:43:18Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:45:22Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/2019-03-28T20:34:58Z.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news/2019-03-28T20:17:15Z.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -49,10 +92,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+            <state relative-caret-position="690">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,10 +104,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="83" selection-end-column="42" />
+            <state relative-caret-position="-85">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/classes.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/instances.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -85,22 +146,28 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getNewsContentPositivasNegativas</find>
+      <find>generarAtributosPositivasNegativas</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/preprocessing.py" />
         <option value="$PROJECT_DIR$/record.txt" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/evaluator.py" />
+        <option value="$PROJECT_DIR$/preprocessing.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="127" />
-    <option name="y" value="60" />
+    <option name="y" value="59" />
     <option name="width" value="1400" />
     <option name="height" value="903" />
   </component>
@@ -110,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,12 +191,18 @@
             </path>
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarcaScrapping" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -145,7 +217,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.preprocessing">
+  <component name="RunManager" selected="Python.evaluator">
+    <configuration name="evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MarcaScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MarcaScrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +283,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.evaluator" />
         <item itemvalue="Python.preprocessing" />
         <item itemvalue="Python.main" />
       </list>
@@ -206,12 +300,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553523411163</updated>
     </task>
-    <task id="LOCAL-00001" summary="NEWS">
-      <created>1553554288793</created>
+    <task id="LOCAL-00001" summary="news">
+      <created>1554708769738</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1553554288793</updated>
+      <updated>1554708769738</updated>
     </task>
     <task id="LOCAL-00002" summary="NEWS">
       <created>1553633232399</created>
@@ -262,19 +356,19 @@
       <option name="project" value="LOCAL" />
       <updated>1554135072386</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4" />
   <component name="ToolWindowManager">
-    <frame x="127" y="60" width="1400" height="903" extended-state="0" />
-    <editor active="true" />
+    <frame x="127" y="59" width="1400" height="903" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950678" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,6 +381,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="news" />
+    <option name="LAST_COMMIT_MESSAGE" value="news" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
@@ -353,25 +451,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="83" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4590">
           <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -380,12 +465,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/instances.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/classes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+        <state relative-caret-position="690">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
