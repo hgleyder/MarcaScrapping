@@ -3,7 +3,9 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import cross_val_score, cross_val_predict
 from sklearn import svm
 from sklearn import naive_bayes
+from sklearn.feature_extraction.text import TfidfTransformer
 
+tfidfconverter = TfidfTransformer()
 
 #============================== CROSS VALIDATION ======================================
 
@@ -35,6 +37,8 @@ def modelCVEvaluation():
         i = map(lambda x: float(x), i)
         aux.append(i)
     instances = aux
+
+    instances = tfidfconverter.fit_transform(instances).toarray()
     f = open('datasets/classes.txt', 'r')
     classes = f.readlines()
     aux = []
@@ -42,9 +46,8 @@ def modelCVEvaluation():
         aux.append(c.replace('\n', ""))
     classes = aux
 
-    print(classes)
-
     clf = svm.LinearSVC()
+    # clf = naive_bayes.MultinomialNB()
     getModelMetrics(clf, instances, classes)
 
 modelCVEvaluation()

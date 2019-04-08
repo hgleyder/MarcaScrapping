@@ -9,7 +9,7 @@ import re
 from nltk.stem import SnowballStemmer
 stemmer = SnowballStemmer('spanish')
 
-MIN_COUNT_ATTR = 20;
+MIN_COUNT_ATTR = 5;
 
 def getFilesFromPath(path):
     return [f for f in listdir(path) if isfile(join(path, f))]
@@ -37,9 +37,18 @@ def removeStopWordsAndApplyStemmerFromContent(content):
     words = re.sub("^\W|\d|[.!:@#$%^&*(){}_,;'+/*<>|~`\"\-?]", " ", content.lower()).split()
     wordsFiltered = []
 
-    for w in words:
-        if w not in stopWords:
-            wordsFiltered.append(stemmer.stem(w.decode('utf-8')))
+    for w in list(range(0, len(words))):
+        # Tomando en cuenta negaciones
+        if words[w] in ['ni', 'no', 'jamás']:
+            wordsFiltered.append(words[w] + '-' + stemmer.stem(words[w+1].decode('utf-8')))
+
+        elif words[w] not in stopWords:
+            wordsFiltered.append(stemmer.stem(words[w].decode('utf-8')))
+
+        # Bigramas
+        if words[w] not in stopWords and w < len(words) - 1 and words[w+ 1] not in stopWords:
+
+            wordsFiltered.append(stemmer.stem(words[w].decode('utf-8')) + '-' + stemmer.stem(words[w+1].decode('utf-8')))
 
     return wordsFiltered
 
@@ -86,6 +95,8 @@ def generateDatasetPositivasNegativas():
     f = open('datasets/dataset.csv', 'w+')
     f = open('datasets/classes.txt', 'w+')
     f = open('datasets/instances.txt', 'w+')
+    f = open('datasets/attributes.txt', 'w+')
+    attrSaved = False
     articulos = getNewsContentPositivasNegativas()
     atributos = generarAtributosPositivasNegativas(articulos)
     for clase in articulos:
@@ -93,8 +104,11 @@ def generateDatasetPositivasNegativas():
             instancia = ''
             filteredAttrs = (x for x in atributos.iterkeys() if atributos[x] >= MIN_COUNT_ATTR)
             for key in filteredAttrs:
+                if not attrSaved:
+                    f = open('datasets/attributes.txt', 'a+')
+                    f.write(key+'\n')
                 instancia += str(articulo.count(key)) + ','
-
+            attrSaved = True
             f = open('datasets/instances.txt', 'a+')
             f.write(instancia[:-1]+'\n')
             f = open('datasets/classes.txt', 'a+')
