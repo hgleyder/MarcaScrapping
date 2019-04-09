@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NombresData/estadiosEquipos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombresData/jugadoresSoccer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NombresData/procesarNombres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/classes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/instances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/instances.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,31 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="760" column="50" selection-start-line="760" selection-start-column="50" selection-end-line="760" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/evaluator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="30" lean-forward="true" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -57,11 +34,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13609">
+            <state relative-caret-position="15">
               <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2145">
+              <caret line="143" column="11" lean-forward="true" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NombresData/jugadoresSoccer.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18510">
+              <caret line="1234" column="16" selection-start-line="1234" selection-start-column="16" selection-end-line="1234" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NombresData/procesarNombres.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -109,6 +113,8 @@
       <find>ni-</find>
       <find>no-</find>
       <find>generarAtributosPositivasNegativas</find>
+      <find>Stadio</find>
+      <find>Stadio</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,6 +127,10 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/evaluator.py" />
         <option value="$PROJECT_DIR$/preprocessing.py" />
+        <option value="$PROJECT_DIR$/NombresData/estadiosEquipos.txt" />
+        <option value="$PROJECT_DIR$/NombresData/Jugadores Football.txt" />
+        <option value="$PROJECT_DIR$/NombresData/jugadoresSoccer.txt" />
+        <option value="$PROJECT_DIR$/NombresData/procesarNombres.py" />
       </list>
     </option>
   </component>
@@ -136,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +157,7 @@
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarcaScrapping" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="NombresData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
@@ -156,8 +167,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NombresData" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NombresData" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.evaluator">
+  <component name="RunManager" selected="Python.procesarNombres">
     <configuration name="evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MarcaScrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,8 +253,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="procesarNombres" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MarcaScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NombresData" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NombresData/procesarNombres.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.procesarNombres" />
         <item itemvalue="Python.evaluator" />
         <item itemvalue="Python.preprocessing" />
         <item itemvalue="Python.main" />
@@ -316,6 +356,7 @@
   <component name="TodoView" selected-index="4" />
   <component name="ToolWindowManager">
     <frame x="127" y="59" width="1400" height="903" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -398,46 +439,20 @@
     <entry file="file://$PROJECT_DIR$/news/2019-03-28T21:19:50Z.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+    <entry file="file://$PROJECT_DIR$/record.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4590">
-          <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
+        <state relative-caret-position="11400">
+          <caret line="760" column="50" selection-start-line="760" selection-start-column="50" selection-end-line="760" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/instances.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/classes.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="645">
           <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="760" column="50" selection-start-line="760" selection-start-column="50" selection-end-line="760" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -448,10 +463,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/classes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/instances.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="308" column="8" selection-start-line="308" selection-start-column="8" selection-end-line="308" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13609">
+        <state relative-caret-position="15">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/Jugadores Football.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="11" lean-forward="true" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/jugadoresSoccer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18510">
+          <caret line="1234" column="16" selection-start-line="1234" selection-start-column="16" selection-end-line="1234" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="true" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/procesarNombres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
         </state>
       </provider>
     </entry>
