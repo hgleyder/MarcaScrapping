@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NombresData/estadiosEquipos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NombresData/jugadoresSoccer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NombresData/procesarNombres.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:54:31Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T07:55:02Z.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="30" lean-forward="true" selection-end-line="3" selection-end-column="30" />
+              <caret line="3" column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -37,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="165">
               <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
@@ -47,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2145">
-              <caret line="143" column="11" lean-forward="true" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
+              <caret line="143" column="11" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -64,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NombresData/procesarNombres.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+            <state relative-caret-position="375">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -153,6 +151,11 @@
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarcaScrapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarcaScrapping" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
@@ -301,19 +304,19 @@
       <option name="project" value="LOCAL" />
       <updated>1554708769738</updated>
     </task>
-    <task id="LOCAL-00002" summary="NEWS">
-      <created>1553633232399</created>
+    <task id="LOCAL-00002" summary="nombres archivos agregados">
+      <created>1554830006570</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1553633232399</updated>
+      <updated>1554830006570</updated>
     </task>
-    <task id="LOCAL-00003" summary="NEWS">
-      <created>1553685065437</created>
+    <task id="LOCAL-00003" summary="nombres archivos agregados">
+      <created>1554830028579</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1553685065438</updated>
+      <updated>1554830028579</updated>
     </task>
     <task id="LOCAL-00004" summary="NEWS">
       <created>1553809272333</created>
@@ -350,20 +353,19 @@
       <option name="project" value="LOCAL" />
       <updated>1554135072386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4" />
   <component name="ToolWindowManager">
     <frame x="127" y="59" width="1400" height="903" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950678" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +381,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="news" />
-    <option name="LAST_COMMIT_MESSAGE" value="news" />
+    <MESSAGE value="nombres archivos agregados" />
+    <option name="LAST_COMMIT_MESSAGE" value="nombres archivos agregados" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
@@ -456,10 +459,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/Jugadores Football.txt" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="11" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/jugadoresSoccer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18510">
+          <caret line="1234" column="16" selection-start-line="1234" selection-start-column="16" selection-end-line="1234" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -482,41 +514,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NombresData/Jugadores Football.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="11" lean-forward="true" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NombresData/jugadoresSoccer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18510">
-          <caret line="1234" column="16" selection-start-line="1234" selection-start-column="16" selection-end-line="1234" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="true" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NombresData/procesarNombres.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+        <state relative-caret-position="375">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
