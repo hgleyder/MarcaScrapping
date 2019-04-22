@@ -17,7 +17,7 @@ def SepararPalabrasMinusculasDeArchivo(filePath, list=[]):
     return lista
 
 def CreateNamesList():
-    archivosNombres = ["jugadoresSoccer.txt", "estadiosEquipos.txt"]
+    archivosNombres = ["nombres/jugadoresSoccer.txt", "nombres/estadiosEquipos.txt"]
     listaDeNombres = []
     for file in archivosNombres:
         listaDeNombres = SepararPalabrasMinusculasDeArchivo(file, listaDeNombres)

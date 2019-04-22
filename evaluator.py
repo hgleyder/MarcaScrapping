@@ -46,6 +46,7 @@ def modelCVEvaluation():
         aux.append(c.replace('\n', ""))
     classes = aux
 
+    # clf = svm.NuSVC()
     clf = svm.LinearSVC()
     # clf = naive_bayes.MultinomialNB()
     getModelMetrics(clf, instances, classes)
