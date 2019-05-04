@@ -2,15 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NombresData/estadiosEquipos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nombres/estadiosEquipos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NombresData/jugadoresSoccer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nombres/jugadoresSoccer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NombresData/procesarNombres.py" beforeDir="false" afterPath="$PROJECT_DIR$/procesarNombres.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datasets/attributes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/attributes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datasets/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/classes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datasets/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataset.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datasets/instances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/instances.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T12:50:03Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T12:52:10Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T12:58:16Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:00:29Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:02:57Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:10:05Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:15:15Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:23:16Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:25:25Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:28:51Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:30:56Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:40:32Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:51:45Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:51:52Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:53:45Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:55:51Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T14:14:49Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T14:19:01Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:22:43Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:25:35Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:25:53Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:29:52Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:31:24Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:33:52Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:42:07Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:50:35Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:10:34Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:19:05Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:24:10Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:28:45Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:29:03Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:48:58Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:52:27Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:58:18Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:03:47Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:04:35Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:05:11Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:09:42Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:15:04Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:21:30Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:21:43Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:22:02Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:38:43Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:04:58Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:08:03Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:21:24Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:34:20Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:49:38Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:54:12Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:10:58Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:17:15Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:34:58Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:37:15Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:43:45Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:50:22Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:01:32Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:05:02Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:18:00Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:19:50Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T22:54:47Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T22:59:34Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T23:05:19Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-28T23:10:35Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T05:24:57Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T05:47:00Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:38:24Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:38:37Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:43:12Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:52:07Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:11:58Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:12:19Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:13:50Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:14:02Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:14:18Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:15:00Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:15:49Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:21:49Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:26:31Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:42:53Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:52:03Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T08:14:58Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T08:18:56Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/2019-03-29T08:29:08Z.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +99,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -32,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1361">
+            <state relative-caret-position="135">
               <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
@@ -41,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9122">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="180">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -52,7 +131,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="629">
@@ -67,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/lib/python2.7/site-packages/sklearn/svm/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="11445">
               <caret line="772" column="8" selection-start-line="772" selection-start-column="8" selection-end-line="772" selection-end-column="8" />
             </state>
           </provider>
@@ -152,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,6 +261,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -296,8 +375,8 @@
       <list>
         <item itemvalue="Python.evaluator" />
         <item itemvalue="Python.preprocessing" />
-        <item itemvalue="Python.procesarNombres" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.procesarNombres" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +460,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950678" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,20 +556,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NombresData/Jugadores Football.txt" />
-    <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="11" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NombresData/jugadoresSoccer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18510">
-          <caret line="1234" column="16" selection-start-line="1234" selection-start-column="16" selection-end-line="1234" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NombresData/estadiosEquipos.txt" />
+    <entry file="file://$PROJECT_DIR$/NombresData/jugadoresSoccer.txt" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4590">
@@ -498,34 +565,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="135">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nombres/estadiosEquipos.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
+    <entry file="file:///usr/local/lib/python2.7/site-packages/sklearn/svm/classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9122">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="11445">
+          <caret line="772" column="8" selection-start-line="772" selection-start-column="8" selection-end-line="772" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/instances.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/classes.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/procesarNombres.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -534,18 +596,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1361">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/datasets/classes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/site-packages/sklearn/svm/classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="772" column="8" selection-start-line="772" selection-start-column="8" selection-end-line="772" selection-end-column="8" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/datasets/instances.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/evaluator.py">
@@ -555,6 +615,13 @@
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
