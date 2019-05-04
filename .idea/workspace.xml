@@ -2,94 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/datasets/attributes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/attributes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/classes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/instances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/instances.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T12:50:03Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T12:52:10Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T12:58:16Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:00:29Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:02:57Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:10:05Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:15:15Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:23:16Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:25:25Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:28:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:30:56Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:40:32Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:51:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:51:52Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:53:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T13:55:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T14:14:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T14:19:01Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:22:43Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:25:35Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:25:53Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:29:52Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:31:24Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:33:52Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:42:07Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T16:50:35Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:10:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:19:05Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:24:10Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:28:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:29:03Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:48:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:52:27Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T17:58:18Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:03:47Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:04:35Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:05:11Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:09:42Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:15:04Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:21:30Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:21:43Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:22:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T18:38:43Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:04:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:08:03Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:21:24Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:34:20Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:49:38Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T19:54:12Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:10:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:17:15Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:34:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:37:15Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:43:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T20:50:22Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:01:32Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:05:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:18:00Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T21:19:50Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T22:54:47Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T22:59:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T23:05:19Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-28T23:10:35Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T05:24:57Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T05:47:00Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:38:24Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:38:37Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:43:12Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T06:52:07Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:11:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:12:19Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:13:50Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:14:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:14:18Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:15:00Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:15:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:21:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:26:31Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:42:53Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T07:52:03Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T08:14:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T08:18:56Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-03-29T08:29:08Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/record.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MarcaScrapping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MarcaScrapping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluatorKeras.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluatorKeras.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,47 +16,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="60">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preprocessing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datasets/attributes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nombres/estadiosEquipos.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="366">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/evaluatorKeras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="100" column="17" selection-start-line="81" selection-start-column="4" selection-end-line="100" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/MarcaScrapping/lib/python3.7/site-packages/keras/engine/training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="48" column="31" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pima-indians-diabetes.data.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-11101" />
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
@@ -215,13 +140,14 @@
         <option value="$PROJECT_DIR$/NombresData/procesarNombres.py" />
         <option value="$PROJECT_DIR$/procesarNombres.py" />
         <option value="$PROJECT_DIR$/preprocessing.py" />
+        <option value="$PROJECT_DIR$/evaluatorKeras.py" />
         <option value="$PROJECT_DIR$/evaluator.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="127" />
-    <option name="y" value="59" />
+    <option name="y" value="58" />
     <option name="width" value="1400" />
     <option name="height" value="903" />
   </component>
@@ -250,11 +176,6 @@
             </path>
             <path>
               <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarcaScrapping" type="462c0819:PsiDirectoryNode" />
-              <item name="nombres" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarcaScrapping" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -264,12 +185,15 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/NombresData" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/NombresData" />
     </key>
@@ -300,6 +224,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluatorKeras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MarcaScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluatorKeras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,6 +319,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.evaluator" />
+        <item itemvalue="Python.evaluatorKeras" />
         <item itemvalue="Python.preprocessing" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.procesarNombres" />
@@ -452,7 +398,7 @@
   </component>
   <component name="TodoView" selected-index="4" />
   <component name="ToolWindowManager">
-    <frame x="127" y="59" width="1400" height="903" extended-state="0" />
+    <frame x="127" y="58" width="1400" height="903" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
@@ -479,26 +425,7 @@
     <MESSAGE value="nombres archivos agregados" />
     <option name="LAST_COMMIT_MESSAGE" value="nombres archivos agregados" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/evaluator.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/2019-03-25T21:41:56Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T20:44:49Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T20:17:11Z.txt" />
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T19:34:59Z.txt" />
@@ -608,20 +535,45 @@
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluator.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pima-indians-diabetes.data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-11101" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/MarcaScrapping/lib/python3.7/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluatorKeras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="100" column="17" selection-start-line="81" selection-start-column="4" selection-end-line="100" selection-end-column="17" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="366">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

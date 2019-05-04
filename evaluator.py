@@ -10,22 +10,19 @@ tfidfconverter = TfidfTransformer()
 #============================== CROSS VALIDATION ======================================
 
 def getModelMetrics(model, instances, classes):
-    scores = cross_val_score(model, instances,
-                             classes, cv=10)
-    print("\nCross Validation Accuracy: %0.2f (+/- %0.2f)\n" % (scores.mean(), scores.std() * 2))
-
     predicted = cross_val_predict(model, instances, classes, cv=10)
-    print "================= MODEL SUMMARY ================="
-    print classification_report(classes, predicted)
-    print "General Accuracy: " + str(accuracy_score(classes, predicted))
-    print "Correctly Classified Instances: " + str(accuracy_score(classes, predicted) * len(classes))
-    print "Incorrectly Classified Instances: " + str(len(classes) - (accuracy_score(classes, predicted) * len(classes)))
-    print "\n*** Confusion Matrix ***"
+    print("================= MODEL SUMMARY =================")
+    print(classification_report(classes, predicted))
+    print("General Accuracy: " + str(accuracy_score(classes, predicted)))
+    print("Correctly Classified Instances: " + str(accuracy_score(classes, predicted) * len(classes)))
+    print(
+        "Incorrectly Classified Instances: " + str(len(classes) - (accuracy_score(classes, predicted) * len(classes))))
+    print("\n*** Confusion Matrix ***")
     cm = confusion_matrix(classes, predicted)
-    print "\n  0  1"
+    print("\n  0  1")
     for i in list(range(0, len(cm))):
-        print str(cm[i]) + " " + str(i)
-    print "================================================="
+        print(str(cm[i]) + " " + str(i))
+    print("=================================================")
 
 
 def modelCVEvaluation():
@@ -34,8 +31,10 @@ def modelCVEvaluation():
     aux = []
     for inst in instances:
         i = inst.replace('\n', "").split(",")
-        i = map(lambda x: float(x), i)
-        aux.append(i)
+        val = []
+        for v in i:
+            val.append(int(v))
+        aux.append(val)
     instances = aux
 
     instances = tfidfconverter.fit_transform(instances).toarray()
@@ -43,7 +42,9 @@ def modelCVEvaluation():
     classes = f.readlines()
     aux = []
     for c in classes:
-        aux.append(c.replace('\n', ""))
+        clase = c.replace('\n', "")
+        classIndx = ['positivo', 'negativo']
+        aux.append(classIndx.index(clase))
     classes = aux
 
     # clf = svm.NuSVC()
