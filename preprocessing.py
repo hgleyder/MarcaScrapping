@@ -2,6 +2,7 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
+
 from os import listdir
 from os.path import isfile, join
 from nltk.corpus import stopwords
@@ -9,7 +10,7 @@ import re
 from nltk.stem import SnowballStemmer
 stemmer = SnowballStemmer('spanish')
 
-MIN_COUNT_ATTR = 5;
+MIN_COUNT_ATTR = 10;
 
 def getFilesFromPath(path):
     return [f for f in listdir(path) if isfile(join(path, f))]
@@ -62,7 +63,7 @@ def getContentPerClass(clase):
             words = removeStopWordsAndApplyStemmerFromContent(content)
             instances.append(words)
         except:
-            print ""
+            print("")
     return instances
 
 
@@ -117,7 +118,7 @@ def generateDatasetPositivasNegativas():
             instancia+=clase+"\n"
             f = open('datasets/dataset.csv', 'a+')
             f.write(instancia)
-    print "Dataset creado de forma exitosa!"
+    print("Dataset creado de forma exitosa!")
 
 
 
