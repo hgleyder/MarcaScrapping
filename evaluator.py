@@ -1,9 +1,10 @@
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score, confusion_matrix
-from sklearn.model_selection import cross_val_score, cross_val_predict
+from sklearn.model_selection import cross_val_predict
 from sklearn import svm
-from sklearn import naive_bayes
 from sklearn.feature_extraction.text import TfidfTransformer
+from joblib import dump
+
 
 tfidfconverter = TfidfTransformer()
 
@@ -51,5 +52,7 @@ def modelCVEvaluation():
     clf = svm.LinearSVC()
     # clf = naive_bayes.MultinomialNB()
     getModelMetrics(clf, instances, classes)
+    clf.fit(instances, classes)
+    dump(clf, open("model.o", "wb"))
 
 modelCVEvaluation()

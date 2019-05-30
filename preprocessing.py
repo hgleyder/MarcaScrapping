@@ -121,6 +121,24 @@ def generateDatasetPositivasNegativas():
     print("Dataset creado de forma exitosa!")
 
 
+def crearInstanciaConAtributos(words):
+    f = open('datasets/attributes.txt', 'r+')
+    atributos = f.readlines()
+    aux = []
+    for a in atributos:
+        aux.append(a.replace('\n',""))
+    atributos = aux
+
+    instancia = []
+    for palabra in atributos:
+        cnt = words.count(palabra)
+        instancia.append(cnt)
+
+    return instancia
 
 
-generateDatasetPositivasNegativas()
+#
+#
+#
+#
+# generateDatasetPositivasNegativas()
