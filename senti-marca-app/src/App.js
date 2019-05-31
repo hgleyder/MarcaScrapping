@@ -8,6 +8,7 @@ import firebaseDatabase from './firebase';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Main from './Screens/Main';
 import Noticia from './Screens/Noticia';
+import _ from 'lodash';
 
 class App extends React.Component {
 
@@ -17,8 +18,9 @@ class App extends React.Component {
 
   componentDidMount(){
     firebaseDatabase.ref('/news').on('value', snapshot => {
+      const noticias =  Object.values(snapshot.val()).map(n => ({...n, date: new Date(n.publishedAt)}));
       this.setState({
-        noticias: Object.values(snapshot.val()),
+        noticias: _.orderBy(noticias, ['date'], ['desc']),
       })
     })
   }
@@ -27,23 +29,23 @@ class App extends React.Component {
     console.log(this.state.noticias)
     return (
       <div className="App">
+      <Router>
       <ThemeProvider theme={theme}>
         <AppBar />
         <Container>
-          <Router>
             <Route path="/" exact component={() => <Main noticias={this.state.noticias} />} />
             <Route path="/noticia/:id" component={(props) => <Noticia {...props} noticias={this.state.noticias} />} />
-          </Router>
         </Container>
       </ThemeProvider>
+      </Router>
     </div>
     );
   }
 }
 
 const Container = styled.div`
-  width: 94%;
-  margin: 4rem 3%;
+  width: 88%;
+  margin: 4rem 6%;
 `;
 
 export default App;

@@ -3,10 +3,11 @@ import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
+import Logo from '../../assets/SENTIMARCA.png'
+import { Link } from 'react-router-dom';
 
 const useStyles = makeStyles(theme => ({
   root: {
-
     flexGrow: 1,
     position: 'fixed',
     width: '100%',
@@ -16,6 +17,9 @@ const useStyles = makeStyles(theme => ({
   menuButton: {
     marginRight: theme.spacing(2),
   },
+  logo:{
+    height: '3.5rem',
+  },
 }));
 
 function DenseAppBar() {
@@ -24,9 +28,9 @@ function DenseAppBar() {
     <div className={classes.root}>
       <AppBar position="static">
         <Toolbar variant="dense">
-          <Typography variant="h6" color="inherit">
-            SentiMARCA
-          </Typography>
+            <Link to="/">
+              <img src={Logo} alt="logo" className={classes.logo} />
+            </Link>
         </Toolbar>
       </AppBar>
     </div>

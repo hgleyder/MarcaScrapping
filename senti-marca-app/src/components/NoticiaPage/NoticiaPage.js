@@ -14,7 +14,7 @@ import styled from 'styled-components';
 
 const styles = {
   card: {
-    width: '80%',
+    width: '70%',
     margin: '1rem 1%',
     display: 'inline-block',
 

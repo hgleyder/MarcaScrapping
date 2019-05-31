@@ -2,188 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abe7744-dfdd-408a-889d-79deb8d65330" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/negativo/1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/classes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/instances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/instances.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.o" beforeDir="false" afterPath="$PROJECT_DIR$/model.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-07T21:45:31Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-07T21:52:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-07T22:04:13Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-07T22:52:15Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-07T23:17:18Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-07T23:51:57Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:02:32Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:22:26Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:29:11Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:29:18Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:36:55Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:41:11Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:43:33Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T05:51:14Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:04:22Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:12:16Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:20:38Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:29:32Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:38:18Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:49:31Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:49:41Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T06:49:53Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:06:24Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:06:30Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:26:46Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:28:04Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:30:36Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:36:50Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:37:23Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:46:19Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:47:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:52:25Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T07:57:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:09:33Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:09:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:18:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:21:27Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:32:39Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:37:06Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:38:22Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:43:47Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:44:16Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:47:25Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:47:32Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T08:59:41Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:02:15Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:12:42Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:13:21Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:14:07Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:19:10Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:19:44Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:21:41Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:29:38Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:32:27Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:37:00Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:37:36Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:40:14Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:43:39Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:48:00Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:51:53Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:53:40Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:54:39Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T09:56:28Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:20:09Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:20:10Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:33:37Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:35:37Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:39:42Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:44:20Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:44:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:46:09Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:49:44Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:52:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T16:56:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T17:02:01Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T17:23:04Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T17:38:44Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T17:40:06Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T17:41:25Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T17:44:21Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:04:37Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:20:38Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:23:59Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:28:36Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:43:42Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:53:13Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T18:56:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T19:01:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T19:07:17Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T19:18:57Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T19:27:04Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T19:27:08Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T19:56:06Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T20:08:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T20:10:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T20:35:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T20:41:13Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T20:58:57Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T21:10:40Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T21:10:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T21:18:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T22:35:04Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-08T22:55:28Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T00:01:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T04:25:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:00:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:09:11Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:13:22Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:13:33Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:13:36Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:31:58Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:34:31Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:50:09Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:50:20Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:53:23Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:56:08Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T05:59:30Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T06:02:29Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T06:10:56Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T06:38:44Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-04-09T06:49:43Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T06:56:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T06:59:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T07:13:05Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T07:27:30Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T07:40:29Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T07:46:01Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T07:46:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T07:50:04Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T08:19:54Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T08:27:25Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T08:45:22Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T08:58:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T09:17:57Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T09:21:35Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T09:25:07Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T09:26:43Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T09:28:09Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-04T09:31:50Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:06:01Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:09:34Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:12:10Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:13:23Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:21:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:26:17Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:28:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:43:51Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:49:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T07:53:41Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:08:33Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:33:27Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:33:43Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:36:16Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:44:05Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:52:26Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-06T08:53:09Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T08:44:24Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T08:45:24Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T08:47:39Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T08:47:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:04:18Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:04:45Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:07:10Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:17:25Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:18:48Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:19:23Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:31:02Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:34:28Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:36:37Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:41:03Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:47:49Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T09:53:22Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/2019-05-25T10:14:47Z.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nombres/estadiosEquipos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nombres/jugadoresSoccer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/senti-marca-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/senti-marca-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/senti-marca-app/src/components/AppBar/AppBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/senti-marca-app/src/components/AppBar/AppBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/senti-marca-app/src/components/NoticiaPage/NoticiaPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/senti-marca-app/src/components/NoticiaPage/NoticiaPage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -193,16 +15,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
+            <state relative-caret-position="467">
               <caret line="144" selection-start-line="144" selection-end-line="144" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -548,12 +370,12 @@
       <option name="project" value="LOCAL" />
       <updated>1559198332508</updated>
     </task>
-    <task id="LOCAL-00006" summary="NEWS">
-      <created>1554113707378</created>
+    <task id="LOCAL-00006" summary="front-end app ready">
+      <created>1559324333456</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1554113707378</updated>
+      <updated>1559324333456</updated>
     </task>
     <task id="LOCAL-00007" summary="preprocessing">
       <created>1554134995013</created>
@@ -569,7 +391,7 @@
       <option name="project" value="LOCAL" />
       <updated>1554135072386</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4" />
@@ -577,12 +399,12 @@
     <frame x="127" y="57" width="1400" height="903" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3226976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950678" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -601,7 +423,8 @@
     <MESSAGE value="nombres archivos agregados" />
     <MESSAGE value="ready 73.4%" />
     <MESSAGE value="firebase connected classified news" />
-    <option name="LAST_COMMIT_MESSAGE" value="firebase connected classified news" />
+    <MESSAGE value="front-end app ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="front-end app ready" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/news/2019-03-25T20:30:25Z.txt" />
@@ -673,13 +496,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/evaluatorKeras.py" />
-    <entry file="file://$PROJECT_DIR$/preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="144" selection-start-line="144" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -694,13 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="52" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrappingAndClassify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -741,6 +550,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrappingAndClassify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
         </state>
       </provider>
     </entry>
